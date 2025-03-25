@@ -20,43 +20,43 @@ Se desarrollaron algoritmos en Python para:
 
 **Representación del Estado Cuántico**
 
-Se modela un sistema con un conjunto discreto de posiciones en una línea.
+- Se modela un sistema con un conjunto discreto de posiciones en una línea.
 
-Se define un vector ket inicial con amplitudes de probabilidad.
+- Se define un vector ket inicial con amplitudes de probabilidad.
 
 **Probabilidad de Posición**
 
-Se calcula la probabilidad de encontrar la partícula en una posición determinada usando el cuadrado del módulo de las amplitudes del ket.
+- Se calcula la probabilidad de encontrar la partícula en una posición determinada usando el cuadrado del módulo de las amplitudes del ket.
 
 **Probabilidad de Transición**
 
-Se permite ingresar dos estados cuánticos y calcular la probabilidad de transitar del primero al segundo.
+- Se permite ingresar dos estados cuánticos y calcular la probabilidad de transitar del primero al segundo.
 
 **Operadores Hermitianos y Observables**
 
-Se implementa la verificación de que un operador es hermitiano.
+- Se implementa la verificación de que un operador es hermitiano.
 
-Se calcula el valor esperado y la varianza de un observable en un estado dado.
+- Se calcula el valor esperado y la varianza de un observable en un estado dado.
 
 **Autovalores y Probabilidades de Medición**
 
-Se obtienen los valores propios de un operador y se calcula la probabilidad de que el sistema colapse en cada uno de sus autovectores tras una medición.
+- Se obtienen los valores propios de un operador y se calcula la probabilidad de que el sistema colapse en cada uno de sus autovectores tras una medición.
 
 ## Evolución Temporal del Sistema
 
-Se permite aplicar una serie de matrices unitarias al estado inicial y calcular el estado final del sistema.
+- Se permite aplicar una serie de matrices unitarias al estado inicial y calcular el estado final del sistema.
 
 ## Requisitos
 
-Software Python 3.8 o superior
+- Software Python 3.8 o superior
 
 ## Librerías utilizadas
 
-NumPy → Para operaciones con vectores y matrices.
+- NumPy → Para operaciones con vectores y matrices.
 
-SciPy → Para funciones matemáticas avanzadas.
+- SciPy → Para funciones matemáticas avanzadas.
 
-Equipo Utilizado
+## Equipo Utilizado
 
 Computador Dell, i7 11th Gen, 24 GB RAM, pantalla 15.6''
 
@@ -78,14 +78,14 @@ Este proyecto fue inspirado por cursos de mecánica cuántica, álgebra lineal y
 
 Agradecimientos especiales a la comunidad de Python por sus excelentes bibliotecas.
 
-Referencias
+## Referencias
 
-Notas del curso de Computación Cuántica y Teoría de cuántica básica Observables y Medidas.
+- Notas del curso de Computación Cuántica y Teoría de cuántica básica Observables y Medidas.
 
-Feynman Lectures on Physics: http://www.feynmanlectures.caltech.edu/
+- Feynman Lectures on Physics: http://www.feynmanlectures.caltech.edu/
 
-NumPy: https://numpy.org/
+- NumPy: https://numpy.org/
 
-SciPy: https://scipy.org/
+- SciPy: https://scipy.org/
 
-Qiskit: https://qiskit.org/
+- Qiskit: https://qiskit.org/
