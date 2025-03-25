@@ -72,7 +72,7 @@ Juan Sebastián Fajardo Acevedo: Trabajo inicial y mantenimiento del proyecto.
 
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consultar el archivo LICENSE.md.
 
-## gradecimientos
+## Agradecimientos
 
 Este proyecto fue inspirado por cursos de mecánica cuántica, álgebra lineal y teoría de operadores.
 
